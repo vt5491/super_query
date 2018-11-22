@@ -1,0 +1,51 @@
+I run the main scripts on linux, since I need mySql. I do the text conversion on windows using calibre.
+
+1) Kindle books on pc under:
+
+C:\Users\vturner2\Documents\My Kindle Content
+
+for example
+
+2) Calibre save books to:
+C:\Users\vturner2\Calibre Library\
+
+3) Since the file name for the book is not obvious (e.g. the filename for ts6 is C:\Users\vturner2\Documents\My Kindle Content\B076MTJQS6_EBOK), you have to make sure the book is not already downloaded on the pc (you may need to delete temporarily from your local library) then download it using kindle and use the timestamp (e.g ls -lt) to identify the new file.
+
+4) Add the funny book name to 'dev_notes/book_mappings.txt' for future reference.
+
+5) add this book into calibre by selecting the filename that ends with EBOK (the type of the file is "Kindle Content" in file explorer, or ".awz" from CLI)
+
+6) click on "Convert Book" and go from "kfx" to "txt".  This will create a txt file in the same directory as the _EBOK file.
+
+7) Copy over to linux at 'dev_artifacts/text_books', and give it a more sensible name e.g. 'ts6-the_book_of_thought__mind_matters.txt'.  substitute two underscores for a colon.
+
+8) run the script.  From 'super_query/servers/extractor':
+
+node insert_text.js --title="castalia__the_citadel_of_reason" --series="ts" --volume=7
+
+Note: in the 'title' do not have the "tsx" and do not include .txt
+
+this should output like:
+vturner@vturner-virtual-machine ~/vtstuff/github/super_query/servers/extractor $ node insert_text.js --title="castalia__the_citadel_of_reason" --series="ts" --volume=7 --imit=300
+now reading file ../../dev_artifacts/text_books/ts7-castalia__the_citadel_of_reason.txt
+records for title=ts-7, volume=7 deleted
+lines.length=3739
+inserted 3739 records into super_query.text_corpus
+
+9) Optinally confirm with a query:
+
+mysql> select short_title,count(*) from text_corpus group by 1;
++-------------+----------+
+| short_title | count(*) |
++-------------+----------+
+| ts-1        |     2186 |
+| ts-2        |     3739 |
+| ts-3        |     4084 |
+| ts-4        |     3720 |
+| ts-5        |     4426 |
+| ts-6        |     5287 |
+| ts-7        |     3739 |
++-------------+----------+
+7 rows in set (0.01 sec)
+
+Note: if you have to run multiple times due to a failure you do not have to delete any previously inserted records as the script will delete the records (for the specified book only) before doing an insert.

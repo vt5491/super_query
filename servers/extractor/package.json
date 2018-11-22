@@ -1,0 +1,11 @@
+{
+  "name": "extractor",
+  "version": "1.0.0",
+  "description": "extract text from books into mysql tables",
+  "main": "index.js",
+  "author": "vt5491",
+  "license": "MIT",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
