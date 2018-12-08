@@ -1,0 +1,54 @@
+                                                      |     2636 | ts     | ts-6        |      6 | 2018-11-16 22:57:57 | 2018-11-16 22:57:57 |
+| 32677 | Q. “In one of your books, you mentioned that Pythagoras reincarnates every few hundred years. How does this process work?
+
+|  45041 | Superhero movies are ghastly. They consist of moronic plots, zero characterization, incomprehensible storylines, special effects that are so unbelievable and unengaging that they actually seem incredibly dull, a total lack of tension (since superheroes never die), and smug, overpaid actors delivering smarmy one-liners straight to camera. Groan! Only total mediocrities could find these movies entertaining. They are anti-entertainment and prolefeed for the confederacy of dunces and legions of consumerist zombies. We need a superhero to save us from superheroes (!): wink emoticon.
+
+======================Holy Grail:
+select * from text_corpus where text like "%holy grail%" COLLATE utf8_general_ci;
+
+|  66524 | If you wanted to hide the Holy Grail, where would you put it so that it was right in front of everyone’s faces – hidden in plain sight – but no one could detect it other than those with the “eyes to see”?
+
+|  67851 | The highest degrees of Illuminism are concerned with the secret meanings of Mythos tales going back to King Solomon and even further back to the dawn of civilisation when phosters and archons were said to have played a much more prominent role in human affairs than they do now. Did they bury secret knowledge to help chosen seekers? Did they leave guides regarding how to achieve gnosis and become God? Did they deliver the secret of the Holy Grail to Simon Magus? Did they present him with the mathematical secret of how to control matter with the mind, to transmute base metal into gold?
+
+                                                                                     |     1633 | gs     | gs-1        |      1 | 2018-12-07 20:13:30 | 2018-12-07 20:13:30 |
+|  68993 | 14) Understanding of the secrets of Nature can be achieved by inner experience, through Gnosis. The Holy Grail is an object that can accelerate the process.
+
+|  74517 | The tale of Arthur, Camelot, the Knights of the Round Table, and the Sacred Quest for the Holy Grail is a Mythos representation of the Illuminati. The Illuminati was once rightly in fear of being exterminated by the Roman Catholic Church and placed all of its secrets in coded paintings and stories so that it could be recreated anew at any point in the future by any highly intuitive individual, able to see what was staring him in the face. All of the greatest secrets and mysteries of the Illuminati have been “hidden in plain sight” for centuries. They’re still there even today. Even everything we’ve said here could have been worked out by anyone sufficiently knowledgeable of Pythagoras, Heraclitus, Leibniz and Hegel. 
+
+                                                                                      |     1535 | gs     | gs-6        |      6 | 2018-12-07 21:03:58 | 2018-12-07 21:03:58 |
+|  84870 | Mathematics is humanity’s collective HOLY GRAIL. 
+
+                                                                                      |     3729 | gs     | gs-8        |      8 | 2018-12-07 21:10:17 | 2018-12-07 21:10:17 |
+| 101562 | Euler’s Formula is the Philosopher’s Stone, the ultimate transmuting agent, the supreme alchemical object. It’s also the Holy Grail: that which offers final spiritual transcendence. But, of course, the trick is to be able to harness it. The Holy Grail is Euler’s Formula and the means to subjectively grasp it and internalise, then deploy it objectively, like Neo in The Matrix who could change “reality” just by thinking about it. 
+
+                                                                                    |     1717 | gs     | gs-9        |      9 | 2018-12-07 21:12:49 | 2018-12-07 21:12:49 |
+| 101564 | The Illuminati possess a specific object which is the literal “Holy Grail”. It’s associated with Simon Magus – the man who ought to stand where Jesus Christ now does in terms of world fame and influence – and is designed to effect the final transformation for those who are ready to make the last great leap.
+
+                                                                                      |     7435 | gs     | gs-9        |      9 | 2018-12-07 21:12:50 | 2018-12-07 21:12:50 |
+| 128809 | The Fama Fraternitatis describes how the present Brothers of the Rose Cross have maintained the traditions of their great Founder and describes their discovery of Rosenkreutz’s hidden tomb, a place of fantastic spirituality and power. It consisted of a secret vault with seven sides and three levels, each filled with priceless treasures, miraculous objects (including the Holy Grail and Philosopher’s Stone?), ancient documents and parchments, books of unparalleled wisdom, learning and esoteric knowledge, and the highest secrets of alchemy for turning base metal into gold. Is this a coded reference to the Illuminati’s secret treasure store where the priceless artefacts of the Order – the greatest collection of the works of Higher Humanity, including the stupendous final papers of Leibniz – are preserved and protected with the greatest care and caution ever known?
+
+                                                                                      |     8511 | gs     | gs-13       |     13 | 2018-12-07 22:13:21 | 2018-12-07 22:13:21 |
+| 163576 | You will never attain the ultimate truth unless you know what you’re looking for and how to look for it. That was the solution to the quest for the Holy Grail. 
+
+                                                                                      |     2829 | gs     | gs-14       |     14 | 2018-12-07 22:15:36 | 2018-12-07 22:15:36 |
+| 166527 | In terms of human history, Abraxas refers to Simon Magus, Grand Master of the Illuminati. He certainly wasn’t the most intellectual Grand Master of the Illuminati, but he was the most powerful and was able to transcend the human condition and prove it from beyond the grave – in the object known to history as the Holy Grail, the Illuminati’s most precious artefact and the most priceless object in human history.  
+
+                                                                                                                                                                                                                                                                                    |     3909 | gs     | gs-14       |     14 | 2018-12-07 22:15:36 | 2018-12-07 22:15:36 |
+| 180889 | Earth’s version of Abraxas is Simon Magus, the Illuminati’s terrestrial God, and the originator of the mysterious Holy Grail.
+
+                                                                                      |     1029 | gs     | gs-18       |     18 | 2018-12-07 22:25:53 | 2018-12-07 22:25:53 |
+| 202569 | Simon Magus = the ultimate intuitive magician, the prototype magician, the Divine Magician. What is the Holy Grail? It’s a MAGIC object.   
+
+                                                                                      |     2378 | gs     | gs-23       |     23 | 2018-12-07 22:38:51 | 2018-12-07 22:38:51 |
+| 215674 | The Illuminati is slow to recruit new members. The only “fast” recruits are manifest geniuses, or people with some exceptional insight, or have some notable intuition about the Holy Grail. The reason for taking time – a lot of time – is simple ... many people become highly enthusiastic about Illuminism when they first encounter it, but, after a time, it becomes “normalised”, and then they start returning to their video games, or social networking, or internet cartoons, or videos of cats, or of dogs walking on two legs, or of screaming goats, or they turn to Buddhism, Hinduism, Taoism, Abrahamism, conspiracy theories, scientific materialism, anarchism, skepticism, libertarianism, and so on. Those, self-evidently, are not the kind of people who would ever be recruited.
+
+                                                                                      |     2665 | gs     | gs-23       |     23 | 2018-12-07 22:38:51 | 2018-12-07 22:38:51 |
+| 217392 | The Holy Grail = the Illuminati’s Most Sacred Object. 
+
+                                                                                      |     4383 | gs     | gs-23       |     23 | 2018-12-07 22:38:51 | 2018-12-07 22:38:51 |
+| 217416 | Simon Magus = the Divine Simon who gave the Illuminati the most precious object in the world: the Holy Grail itself.  
+
+                                                                                      |     6584 | gs     | gs-28       |     28 | 2018-12-07 22:52:24 | 2018-12-07 22:52:24 |
+| 246547 | Make sure you’re on the right side of the dialectic – that of the Illuminati. We are the plan. We are the answer. We are the ultimate rational synthesis: the resolution of all contradictions. Only the smartest people in the world can recognise the nature of our quest. Ours is a divine mission. We have the terrestrial Holy Grail and what we pursue is the cosmic Holy Grail. We are the Coming Race of Gods. It will fall to us to solve the problem of the universe. Will you be joining us?  
+
+
